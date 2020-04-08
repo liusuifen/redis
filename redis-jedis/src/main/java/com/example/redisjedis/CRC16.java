@@ -4,7 +4,7 @@ import redis.clients.util.JedisClusterCRC16;
 
 /**
  * redis分片算法
- * @author 图灵-诸葛老师
+ * @author
  *
  */
 public class CRC16 {
